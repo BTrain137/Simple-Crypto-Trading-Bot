@@ -1,0 +1,19 @@
+{
+  "B": "0",                // Ignore
+  "L": 443046823,          // Last Trade ID
+  "Q": "3560763.84767760", // Taker buy quote assets volume
+  "T": 1621711439999,      // Kline close time
+  "V": "1554.53295000",    // Taker buy base asset volume
+  "c": "2293.51000000",    // Close price
+  "f": 443045580,          // First trade ID
+  "h": "2296.57000000",    // High price
+  "i": "1m",               // Interval
+  "l": "2290.00000000",    // Low price
+  "n": 1244,               // Number of trades
+  "o": "2293.95000000",    // Open price
+  "q": "5104020.87171720", // Quote asset volume
+  "s": "ETHUSDT",          // Symbol
+  "t": 1621711380000,      // Kline start time
+  "v": "2227.69034000",    // Base asset volume
+  "x": "False"             // Is this kline closed?
+}
